@@ -1,7 +1,6 @@
 <?php
-// configure
-$from = 'New Message';
-$sendTo = 'litran@pdx.edu';
+$from = 'web.cecs.pdx.edu/~litran';
+$sendTo = 'Lily Tran <litran@pdx.edu>';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'surname' => 'Surname', 'phone' => 'Phone', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in email
 $okMessage = 'Contact form successfully submitted. Thank you, I will get back to you soon!';
