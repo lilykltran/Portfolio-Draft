@@ -1,2 +1,2 @@
 # lilykltran
-portfolio assignment for CS465P
+Simple portfolio for Full-Stack development at Portland State
